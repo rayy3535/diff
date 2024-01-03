@@ -1,4 +1,4 @@
-module github.com/r3labs/diff/v3
+module github.com/rayy3535/diff/v3
 
 go 1.13
 
